@@ -13,6 +13,7 @@ body, html{
 .busca{
     display: block;
     margin: auto;
+    margin-bottom: 5%;
 }
 
 .produtos{
@@ -26,8 +27,7 @@ body, html{
     margin-bottom: 2%;
     width: 100%;
     padding: 0;
-    margin-left: 0;
-    margin-rigth: 0; 
+    margin-bottom: 5%;
 }
 
 .img{

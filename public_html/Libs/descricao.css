@@ -13,22 +13,24 @@ body, html{
 .busca{
     display: block;
     margin: auto;
-    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .imgDesc {
     margin-top: 10%;
     width: 100%;
-    height: 250px;
+    height: 300px;
 }
 
 .imgdescricao {
-    width: 100%;
+    margin: auto;
+    display: block;
+    width: 90%;
     height: 100%;
 }
 
 .produtoNome {
-    margin-top: 10%;
+    margin-top: 15%;
     text-align: center;
 }
 
@@ -43,7 +45,26 @@ button {
     display: block;
     border: none;
     border-radius: 5%;
-    width: 50%;
+    width: 40%;
     height: 100%;
 }
 
+.borda {
+    margin-top: 5%;
+    border-top: 1px solid black; 
+}
+
+.divDescricao {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.pDescricao {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.descricao {
+    text-align: center;
+}
