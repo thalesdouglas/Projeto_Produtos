@@ -16,12 +16,9 @@ body, html{
 }
 
 .produtos{
-    display: block;
-    margin: auto;
-    width: 20rem;
+    width: 60%;
     margin: 5%;
 }
-
 
 .slide_config{
     margin-top: 2%;
