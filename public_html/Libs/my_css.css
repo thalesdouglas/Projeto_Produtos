@@ -17,7 +17,8 @@ body, html{
 
 .produtos{
     width: 60%;
-    margin: 5%;
+    display: block;
+    margin: 5% auto;
 }
 
 .slide_config{
@@ -26,10 +27,14 @@ body, html{
     width: 100%;
     padding: 0;
     margin-left: 0;
-    margin-rigth: 0;
-    
+    margin-rigth: 0; 
 }
 
 .img{
     height: 500px;
+}
+
+.card_config{
+    display: block;
+    margin: auto;
 }
