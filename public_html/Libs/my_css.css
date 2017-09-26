@@ -15,8 +15,17 @@ body, html{
     margin: auto;
 }
 
+.produtos{
+    display: block;
+    margin: auto;
+    width: 20rem;
+    margin: 5%;
+}
+
+
 .slide_config{
     margin-top: 2%;
+    margin-bottom: 2%;
     width: 100%;
     padding: 0;
     margin-left: 0;
