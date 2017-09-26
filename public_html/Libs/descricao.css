@@ -1,0 +1,34 @@
+body, html{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.titulo{
+    position: relative;
+    margin: 3%;
+    text-align: center;
+}
+
+.busca{
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.imgDesc {
+    margin-top: 10%;
+    width: 100%;
+    height: 250px;
+}
+
+.imgdescricao {
+    width: 100%;
+    height: 100%;
+}
+
+.produtoNome {
+    margin-top: 10%;
+    text-align: center;
+}
+
